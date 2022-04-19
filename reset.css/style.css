@@ -1,0 +1,196 @@
+html{
+    scroll-behavior: smooth;
+
+}
+
+header{
+  
+   
+    padding: 0 100px;
+    align-items: center;
+    justify-content: flex-end;
+    display: flex;
+}
+
+.links-container{
+    display: flex;
+    color: #fff;
+    align-items: center;
+    justify-content: flex-start;
+    
+}
+section{
+    height: 100vh;
+}
+
+.home-container{
+    background-color: blueviolet;
+}
+.home-write{
+    position: absolute;
+    width: 284px;
+    height: 60px;
+    left: 128px;
+    top: 115px;
+    
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    color: #fff;    
+}
+
+.meio{
+    position: absolute;
+    width: 1536px;
+    height: 433px;
+    left: 522px;
+    top: 380px;
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 160px;
+    line-height: 202px;
+
+    color: #FFFFFF;
+
+}
+
+
+.produtos-container{
+    position: absolute;
+    width: 548px;
+    height: 84px;
+    left: 686px;
+    top: 612px;
+    
+    background: #1308FE;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 50px;
+}
+
+.wallet{
+    position: absolute;
+    width: 335px;
+    height: 35px;
+    left: 828px;
+    top: 636px;
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+}
+
+.termos{
+    position: absolute;
+    width: 158px;
+    height: 54px;
+    left: 112px;
+    top: 1003px;
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+}
+
+.twitter{
+    position: absolute;
+width: 70px;
+height: 70px;
+left: 1467px;
+top: 983px;
+border-radius: 50%;
+background: #FFFFFF;
+}
+
+.discord{
+    position: absolute;
+width: 70px;
+height: 70px;
+left: 1582px;
+top: 983px;
+border-radius: 50%;
+background: #FFFFFF;
+}
+
+.instagram{
+    position: absolute;
+width: 70px;
+height: 70px;
+left: 1697px;
+top: 983px;
+border-radius: 50%;
+background: #FFFFFF;
+}
+
+.tw{
+ position: absolute;
+width: 32px;
+height: 37px;
+left: 1486px;
+top: 999px;
+
+
+
+
+color: #000000;
+
+
+}
+
+.dis{
+    position: absolute;
+width: 40px;
+height: 37px;
+left: 1599px;
+top: 999px;
+
+font-family: 'Font Awesome 5 Brands';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+
+
+
+color: #000000;
+
+
+}
+
+
+.ins{
+    position: absolute;
+width: 28px;
+height: 37px;
+left: 1718px;
+top: 999px;
+
+font-family: 'Font Awesome 5 Brands';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+
+
+
+color: #000000;
+
+}
+.lima-container{
+    background-color: rgb(0, 255, 13);
+}
+footer{
+    background-color: darkred;
+    height: 80px;
+}
